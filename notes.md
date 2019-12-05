@@ -5,3 +5,11 @@
 >
 > &mdash; A pragmatic Developer
 
+## Jargon
+_"Single Responsibility Principle"_
+
+Do one thing really well. Only one reason to change.
+
+## Depolyment
+- extract configuration 
+
