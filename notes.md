@@ -11,5 +11,9 @@ _"Single Responsibility Principle"_
 Do one thing really well. Only one reason to change.
 
 ## Depolyment
-- extract configuration 
+- extract configuration into environment variables.
+- set-up Continuous Depolyment from GitHub to Heroku
+    - connect heroku to GitHub
+    - create application
+    - on 'Deploy Tab' select Git 
 
